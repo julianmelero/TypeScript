@@ -50,3 +50,5 @@ Or
 3. Unknow
 4. Never
 5. Optional Params and Nullish-coalescing
+6. Default
+7. Rest
