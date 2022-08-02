@@ -9,3 +9,10 @@ Using:
 ### Init project
 
 npx tsc --init
+
+
+
+
+
+
+Installing Types
