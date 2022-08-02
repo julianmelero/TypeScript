@@ -11,13 +11,22 @@ Before run, install this dependencies
         <code>npm i typescript</code>
         <code>npm i --save date-fns</code>
         <code>npm i -D  @types/lodash</code>
+        <code>npm i -D  ts-node</code>
+        <code>npm i @capacitor/camera</code>
 
 ### Compile TS
 To compile TS code, you need to use <code>npx tsc</code> or <code>npx tsc --watch</code> in main directory.
 If you want to run code, move to dist folder and run <code>node 'file name'</code>
 
-## What do you find?
+Or
 
+**Using ts-node**
+
+<code>npx ts-node 'file.ts'</code>
+
+
+## What do you find?
+**BASIC**
 1. Hello World
 2. Numbers
 3. Booleans
@@ -34,3 +43,6 @@ If you want to run code, move to dist folder and run <code>node 'file name'</cod
 14. Import / Export (product folder)
 15. Using TS in compatible lib (date-fns)
 16. Using TS in non compatible Lib (lodash)
+
+**INTERMEDIATE**
+1. Enums
