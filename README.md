@@ -25,7 +25,7 @@ Or
 <code>npx ts-node 'file.ts'</code>
 
 
-## Which is your level?
+## What is your level?
 **BASIC**
 1. Hello World
 2. Numbers
