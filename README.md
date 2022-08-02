@@ -47,3 +47,6 @@ Or
 **INTERMEDIATE**
 1. Enums
 2. Tuples
+3. Unknow
+4. Never
+5. Optional Params and Nullish-coalescing
