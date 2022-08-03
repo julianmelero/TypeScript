@@ -60,3 +60,27 @@ Or
     * Inheritance in Interfaces
     * Readonly
     * CRUD
+    * Omit and Pick Type
+
+
+
+
+
+### What are DTO's?
+When you shouldn't send id or other param like created at, we can omit this, for example, in mongodb or in RDB.
+We have this:
+{
+  "id": '045fdssdf44sdfsdf279',
+  "title": 'My product',
+  "price": 50,
+  "createdAt": "2022-08-03T16:20:53"
+}
+In that non relatinal DB's, we not send id, or in RDB not send created at, so we send:
+{
+  "id": '045fdssdf44sdfsdf279',
+  "title": 'My product',
+  "price": 50  
+}
+
+In this example we omit this params, but we recivied all params from the backend.
+This data is called DTO.
