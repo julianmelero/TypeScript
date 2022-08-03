@@ -13,6 +13,7 @@ Before run, install this dependencies
         <code>npm i -D  @types/lodash</code>
         <code>npm i -D  ts-node</code>
         <code>npm i @capacitor/camera</code>
+        <code>npm install --save-dev @faker-js/faker</code>
 
 ### Compile TS
 To compile TS code, you need to use <code>npx tsc</code> or <code>npx tsc --watch</code> in main directory.
@@ -58,3 +59,4 @@ Or
 11. Create Complex Interfaces (app folder)
     * Inheritance in Interfaces
     * Readonly
+    * CRUD
