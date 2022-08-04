@@ -69,6 +69,7 @@ Or
 **ADVANCED**
 1. First Class
 2. Methods
+3. Public
 
 
 ## What are DTOs?
