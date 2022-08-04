@@ -71,6 +71,7 @@ Or
 2. Methods
 3. Public
 4. Private
+5. Constructor
 
 
 ## What are DTOs?
