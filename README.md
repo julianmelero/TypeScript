@@ -75,6 +75,7 @@ Or
 6. Getters
 7. Setters
 8. Inheritance
+9. Protected
 
 
 ## What are DTOs?

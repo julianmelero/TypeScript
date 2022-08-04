@@ -1,6 +1,6 @@
 export class Animal {
   constructor(
-    public name: string
+    protected name: string
   ) {}
 
   move() {
@@ -9,6 +9,10 @@ export class Animal {
 
   greeting() {
     return `Hello, I'm ${this.name}`
+  }
+
+  protected doSomething() {
+    console.log('do!');
   }
 }
 
@@ -32,7 +36,14 @@ export class Dog extends Animal {
     }
   }
 
+  move() {
+    console.log('Moving as a dog');
+    super.move(); // Here call move from parent
+  }
+
 }
 
+const animal = new Animal('Dogg One');
 const dog = new Dog('Doggg','Julian');
 dog.woof(5);
+dog.move();
