@@ -57,10 +57,12 @@ Or
 9. Overload II
 10. Interfaces
 11. Create Complex Interfaces (app folder)
-    * Inheritance in Interfaces
-    * Readonly
-    * CRUD
-    * Omit and Pick Type
+  * Inheritance in Interfaces
+  * Readonly
+  * CRUD
+  * Omit and Pick Type
+  * Partial and Required
+  * 
 
 
 
