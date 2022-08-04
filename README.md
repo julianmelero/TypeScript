@@ -87,6 +87,7 @@ Or
 10. Static
 11. Interfaces
 12. Abstract
+13. Singleton (SOLID)
 
 ## What are DTOs?
 When you shouldn't send id or other param like created at, we can omit this, for example, in mongodb or in RDB.
