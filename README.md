@@ -70,6 +70,7 @@ Or
 1. First Class
 2. Methods
 3. Public
+4. Private
 
 
 ## What are DTOs?
