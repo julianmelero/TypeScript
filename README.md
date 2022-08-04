@@ -23,6 +23,8 @@ Before run, install this dependencies
 <code>npm install --save-dev @faker-js/
 faker</code>
 
+<code>npm i axios</code>
+
 ### Compile TS
 To compile TS code, you need to use <code>npx tsc</code> or <code>npx tsc --watch</code> in main directory.
 If you want to run code, move to dist folder and run <code>node 'file name'</code>
@@ -88,6 +90,7 @@ Or
 11. Interfaces
 12. Abstract
 13. Singleton (SOLID)
+14. Promises
 
 ## What are DTOs?
 When you shouldn't send id or other param like created at, we can omit this, for example, in mongodb or in RDB.
