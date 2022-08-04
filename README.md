@@ -9,19 +9,12 @@ You need:
 Before run, install this dependencies
 
 <code>npm i -y
-
-        npm i typescript
-
-        npm i --save date-fns
-
-        npm i -D  @types/lodash
-
-        npm i -D  ts-node
-
-        npm i @capacitor/camera
-
-        npm install --save-dev @faker-js/faker
-</code>
+npm i typescript
+npm i --save date-fns
+npm i -D  @types/lodash
+npm i -D  ts-node
+npm i @capacitor/camera
+npm install --save-dev @faker-js/faker</code>
 
 ### Compile TS
 To compile TS code, you need to use <code>npx tsc</code> or <code>npx tsc --watch</code> in main directory.
