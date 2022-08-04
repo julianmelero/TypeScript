@@ -68,6 +68,7 @@ Or
 
 **ADVANCED**
 1. First Class
+2. Methods
 
 
 ## What are DTOs?
