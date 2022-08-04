@@ -84,6 +84,7 @@ Or
 7. Setters
 8. Inheritance
 9. Protected
+10. Static
 
 
 ## What are DTOs?
