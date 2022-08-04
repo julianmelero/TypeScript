@@ -73,6 +73,7 @@ Or
 4. Private
 5. Constructor
 6. Getters
+7. Setters
 
 
 ## What are DTOs?
