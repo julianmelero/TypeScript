@@ -85,6 +85,7 @@ Or
 8. Inheritance
 9. Protected
 10. Static
+11. Interfaces
 
 
 ## What are DTOs?
