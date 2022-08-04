@@ -63,9 +63,9 @@ Or
     * Omit and Pick Type
     * Partial and Required
     * Readonly 
+    * Type param in function
 
-## What are DTO's?
-
+## What are DTOs?
 When you shouldn't send id or other param like created at, we can omit this, for example, in mongodb or in RDB.
 We have this:
 
