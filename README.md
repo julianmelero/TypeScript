@@ -74,6 +74,7 @@ Or
 5. Constructor
 6. Getters
 7. Setters
+8. Inheritance
 
 
 ## What are DTOs?
