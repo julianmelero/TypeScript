@@ -72,6 +72,7 @@ Or
 3. Public
 4. Private
 5. Constructor
+6. Getters
 
 
 ## What are DTOs?
