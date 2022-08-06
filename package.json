@@ -19,6 +19,6 @@
     "@capacitor/camera": "^4.0.1",
     "axios": "^0.27.2",
     "date-fns": "^2.29.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
   }
 }

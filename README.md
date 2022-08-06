@@ -25,6 +25,11 @@ faker</code>
 
 <code>npm i axios</code>
 
+
+Or
+
+run in main folder <code>npm install</code>
+
 ### Compile TS
 To compile TS code, you need to use <code>npx tsc</code> or <code>npx tsc --watch</code> in main directory.
 If you want to run code, move to dist folder and run <code>node 'file name'</code>
