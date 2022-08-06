@@ -92,8 +92,9 @@ Or
 13. Singleton (SOLID)
 14. Promises
 15. App (Type HTTP Response)
-16. Functions to classes
-17. Main 2. Product Memory
+    * Functions to classes
+    * Main 2. Product Memory
+    * Connect to Web API
 
 ## What are DTOs?
 When you shouldn't send id or other param like created at, we can omit this, for example, in mongodb or in RDB.
