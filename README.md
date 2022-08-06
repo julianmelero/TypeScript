@@ -91,7 +91,8 @@ Or
 12. Abstract
 13. Singleton (SOLID)
 14. Promises
-15. App (Type Response HTTP)
+15. App (Type HTTP Response)
+16. Functions to classes
 
 ## What are DTOs?
 When you shouldn't send id or other param like created at, we can omit this, for example, in mongodb or in RDB.
