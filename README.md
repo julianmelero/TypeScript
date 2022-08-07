@@ -25,6 +25,8 @@ faker</code>
 
 <code>npm i axios</code>
 
+<code>npm i -D class-validator</code>
+
 
 Or
 
@@ -102,8 +104,9 @@ Or
     * Connect to Web API
     * Main 3. CRUD from API
 16. Generics
-17. Generics Class
-18. Generic Methods
+    * Generics Class
+    * Generic Methods
+17. Decorators
 
 ## What are DTOs?
 When you shouldn't send id or other param like created at, we can omit this, for example, in mongodb or in RDB.
